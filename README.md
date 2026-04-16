@@ -14,6 +14,7 @@ Just watch my repositories and you'll find it out
     <img src="https://stats.lorypelli.dev/general" loading="lazy" decoding="async" />
     <img src="https://stats.lorypelli.dev/contributions" loading="lazy" decoding="async" />
     <img src="https://stats.lorypelli.dev/languages" loading="lazy" decoding="async" />
+    <img src="https://stats.lorypelli.dev/spotify" loading="lazy" decoding="async" />
 </div>
 
 prob it's a lot, I should touch grass ik...
